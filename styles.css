@@ -18,17 +18,17 @@ h1{
 }
 
 .left{
-    display: flex;
+    
     font-size: 24px;
     color: #F9FAF8;
-    align-items: center;
+    
     font-weight: bold;
 
 }
 p{
     color: #e5e7eb;
     font-size: 18px;
-    padding: 0px 0px 10px 0px;
+    padding: 0px 0px 20px 0px;
     
 }
 
@@ -45,7 +45,7 @@ ul{
     color: #e5e7eb;
 }
 .right {
-    display: flex;
+    
     gap: 20px;
     font-size: 18px;
 }
@@ -57,11 +57,14 @@ ul{
     
 }
 .cleft{
-    color: white;
+    
     max-width: 300px;
     
 }
 
+h1{
+    color: white;
+}
 button{
     background-color: blue;
     color: white;
